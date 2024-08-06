@@ -1,0 +1,4 @@
+S.no&Name&relatoin
+1&venkataraju&father
+2&dhanalakshmi&mother
+3&gopalakrishna&brother
